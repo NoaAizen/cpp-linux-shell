@@ -1,0 +1,5 @@
+C:/Users/noa-m/Desktop/נעה/לימודים/סמסטר ב/exln/ex3_c++/tar3_shell_A/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/noa-m/Desktop/נעה/לימודים/סמסטר ב/exln/ex3_c++/tar3_shell_A/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/noa-m/Desktop/נעה/לימודים/סמסטר ב/exln/ex3_c++/tar3_shell_A/out/build/x64-debug/tar3_shell_A/CMakeFiles/tar3_shell_A.dir
+C:/Users/noa-m/Desktop/נעה/לימודים/סמסטר ב/exln/ex3_c++/tar3_shell_A/out/build/x64-debug/tar3_shell_A/CMakeFiles/edit_cache.dir
+C:/Users/noa-m/Desktop/נעה/לימודים/סמסטר ב/exln/ex3_c++/tar3_shell_A/out/build/x64-debug/tar3_shell_A/CMakeFiles/rebuild_cache.dir
