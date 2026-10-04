@@ -1,0 +1,25 @@
+# Build output
+build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Compiled binaries and objects
+shell
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Runtime file written by the shell
+history.txt
+
+# Editor / IDE
+.vs/
+.vscode/
+.idea/
+CMakeUserPresets.json
